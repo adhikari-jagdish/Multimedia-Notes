@@ -1,8 +1,5 @@
 # Music and Speech (Detailed Explanation)
 
-This note provides a **detailed, structured, and exam-ready explanation** of **Music and Speech** from a **multimedia / computer audio / digital sound processing** perspective.  
-Suitable for **BCA / BSc / CSIT / IT / Multimedia Systems** syllabi.
-
 ---
 
 ## 1. Music
